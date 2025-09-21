@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Desenvolvedor TypeScript<br>Trabalhando em: EduManager e TickTool-b<br>Aprendendo: Desenvolvimento web back e front</p>
+<p align="center">Desenvolvedor TypeScript<br>Trabalhando em: Erisbot<br>Aprendendo: TypeScript, Java e Kotlin</p>
 
 ###
 
