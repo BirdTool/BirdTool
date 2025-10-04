@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Desenvolvedor TypeScript<br>Trabalhando em: Erisbot<br>Aprendendo: TypeScript, Java e Kotlin</p>
+<p align="center">Desenvolvedor TypeScript<br>Trabalhando em: Erisbot<br>Aprendendo: TypeScript e Csharp</p>
 
 ###
 
