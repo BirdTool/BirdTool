@@ -32,7 +32,7 @@ I am a <strong>Backend Developer</strong> currently deep-diving into the JVM eco
 ### 📩 Contact Me
 
 <div align="left">
-  <a href="https://discord.com/users/SEU_ID_DO_DISCORD" target="_blank">
+  <a href="https://discord.com/users/1171963692984844401" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="35" alt="discord logo" />
   </a>
   <a href="https://www.instagram.com/g.alvx_/" target="_blank">
