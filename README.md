@@ -1,41 +1,51 @@
-<h1 align="center">Sobre: BirdTool</h1>
+<h1 align="left">Hey there, I'm BirdTool
 
-###
+### 🚀 About Me
 
-<p align="center">Desenvolvedor TypeScript<br>Trabalhando em: Erisbot<br>Aprendendo: TypeScript e Csharp</p>
+<p align="left">
+Hello! I'm <strong>Guilherme</strong>, better known in the dev community as <strong>BirdTool</strong>. <br>
+I am a <strong>Backend Developer</strong> currently deep-diving into the JVM ecosystem with <strong>Kotlin</strong> and <strong>Java</strong>, as well as <strong>C#</strong>. However, <strong>TypeScript</strong> remains my go-to choice for building robust and scalable API projects.
+</p>
 
-###
+### 🛠️ Tech Stack
 
-<h2 align="center">Tecnologias</h2>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="35" alt="kotlin logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="csharp logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="linux logo" />
 </div>
 
-###
+### 🏆 Main Projects
 
-<h2 align="center">Estatísticas</h2>
+* **[Schema eXtended](https://github.com/BirdTool/Schema-eXtended)** - Validate data with extreme facility and clean syntax.
+* **[Éris Bot (JVM Version)](https://github.com/studio-styx/erisbot-java)** - An advanced and modern Discord bot built using JDA, Kotlin, and Spring Boot.
+* **[Éris Bot (TypeScript Version)](https://github.com/studio-styx/erisbot)** - The original high-performance version built with Discord.js and TypeScript.
 
-###
+### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BirdTool&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=pt-br&hide_border=false&order=1&custom_title=Minhas%20Estat%C3%ADsticas" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BirdTool&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=nord&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BirdTool&radius=16&theme=nord&area=true&order=5" height="200" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=BirdTool&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BirdTool&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 
-###
+### 🐍 Activity
+<img src="https://raw.githubusercontent.com/BirdTool/BirdTool/output/snake.svg" alt="Snake animation" />
+
+### 📩 Contact Me
+
+<div align="left">
+  <a href="https://discord.com/users/SEU_ID_DO_DISCORD" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="35" alt="discord logo" />
+  </a>
+  <a href="https://www.instagram.com/g.alvx_/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="35" alt="instagram logo" />
+  </a>
+</div>
