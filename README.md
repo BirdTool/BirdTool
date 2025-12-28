@@ -29,16 +29,6 @@ I am a <strong>Backend Developer</strong> currently deep-diving into the JVM eco
 * **[Éris Bot (JVM Version)](https://github.com/studio-styx/erisbot-java)** - An advanced and modern Discord bot built using JDA, Kotlin, and Spring Boot.
 * **[Éris Bot (TypeScript Version)](https://github.com/studio-styx/erisbot)** - The original high-performance version built with Discord.js and TypeScript.
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BirdTool&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BirdTool&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-</div>
-
-### 🐍 Activity
-<img src="https://raw.githubusercontent.com/BirdTool/BirdTool/output/snake.svg" alt="Snake animation" />
-
 ### 📩 Contact Me
 
 <div align="left">
