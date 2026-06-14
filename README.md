@@ -72,8 +72,6 @@ Feel free to reach out to discuss backend engineering, AI systems, or game moddi
 
 <!-- Contribution Snake & Stats Activity -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BirdTool/BirdTool/snake-output/snake.svg" alt="Snake animation" width="80%" />
-  <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=BirdTool&show_icons=true&theme=tokyonight&count_private=true" height="160" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BirdTool&layout=compact&theme=tokyonight" height="160" alt="Top Languages" />
 </div>
